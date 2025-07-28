@@ -1,0 +1,17 @@
+{
+    "name": "shamir-secret-sharing-solution",
+    "version": "1.0.0",
+    "description": "Shamir's Secret Sharing implementation using Lagrange interpolation to find polynomial constant term",
+    "main": "solution.js",
+    "scripts": {
+        "start": "node solution.js",
+        "test": "node test.js",
+        "verify": "node verification.js"
+    },
+    "keywords": ["shamir", "secret-sharing", "polynomial", "interpolation", "cryptography"],
+    "author": "Your Name",
+    "license": "MIT",
+    "engines": {
+        "node": ">=12.0.0"
+    }
+} 
